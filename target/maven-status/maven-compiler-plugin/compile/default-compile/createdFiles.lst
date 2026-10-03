@@ -1,0 +1,9 @@
+co\edu\demoacademico\config\DataSeeder.class
+co\edu\demoacademico\service\EstudianteNoEncontradoException.class
+co\edu\demoacademico\controller\EstudianteController.class
+co\edu\demoacademico\service\EstudianteService.class
+co\edu\demoacademico\controller\GlobalExceptionHandler.class
+co\edu\demoacademico\service\EmailDuplicadoException.class
+co\edu\demoacademico\DemoAcademicoApplication.class
+co\edu\demoacademico\repository\EstudianteRepository.class
+co\edu\demoacademico\model\Estudiante.class
